@@ -48,3 +48,4 @@ def smallestMultiple(n):
 
 
 print(smallestMultiple(10))
+print("Program ends")
